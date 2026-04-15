@@ -1,3 +1,13 @@
+---
+
+<div align="center">
+  <h1>👋 Hello, I'm aswella</h1>
+  <p>🚀 <b>Tech Lead Developer | IoT & IT + OT Expert</b></p>
+  <p><i>Exploring the deep stack from PLC to WebAssembly</i></p>
+</div>
+
+---
+
 # 🟠 Ides
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
