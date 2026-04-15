@@ -63,6 +63,16 @@
   ![API](https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+# 💻 Operating Systems
+
+  ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+  ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+  ![Android API 34](https://img.shields.io/badge/Android%20API%2034-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Android API 7](https://img.shields.io/badge/Android%20API%207-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 # 🟡 Bots
   ![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
   ![Discord Bot](https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
