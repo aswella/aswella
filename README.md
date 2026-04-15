@@ -63,7 +63,7 @@
   ![API](https://img.shields.io/badge/API-20232A?style=for-the-badge&logo=cloudflare&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 💻 Operating Systems
+# ⚪ Operating Systems
 
   ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
