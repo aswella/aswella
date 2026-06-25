@@ -20,6 +20,7 @@
 # 🔵 Languages
 
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![COBOL](https://img.shields.io/badge/COBOL-00247D?style=for-the-badge&logo=ibm&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252b%252b&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
