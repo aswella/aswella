@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Hello, I'm aswella</h1>
-  <p>🚀 <b>Tech Lead Developer | IoT + IIOT & IT + OT</b></p>
+  <p>🚀 <b>Tech Lead Developer | IoT + IIoT & IT + OT</b></p>
   <p><i>Exploring the deep stack from PLC to WebAssembly</i></p>
 </div>
 
